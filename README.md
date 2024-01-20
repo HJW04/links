@@ -1,5 +1,5 @@
-# links2
-public_view https://drive.google.com/drive/folders/1Jlv98f9-mS8pUQdjkXUqW0JnflONCUpq?usp=share_link
+public view
+https://drive.google.com/drive/folders/10mA0_VJt7sdRr6Q4GiH0cNOljz1VQ_ZY links2
 
 논리회로 https://drive.google.com/drive/folders/1sLqyI_xtso8-rU0vLpeI4ZtwvEVV82r7?usp=share_link
 
